@@ -38,4 +38,5 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+# Other configurations
 # See https://upptime.js.org/docs/configuration
