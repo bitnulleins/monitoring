@@ -4,23 +4,26 @@ repo: monitoring # The name of this repository
 
 sites:
   - name: bit01
-    url: bit01.de
+    url: https://www.bit01.de
+    expectedStatusCodes:
+      - 200
   - name: bytethinks
-    url: bytethinks.de
+    url: https://www.bytethinks.de
   - name: bitnulleins
-    url: bitnulleins.de
+    url: https://www.bitnulleins.de
   - name: Bricksfinder
-    url: bricksfinder.bit01.de
+    url: https://bricksfinder.bit01.de
   - name: Dohrn Heizung
-    url: dohrn-heizung.de
+    url: https://www.dohrn-heizung.de
   - name: Spielgruppe Halstenbek
-    url: spielgruppe-halstenbek.de
+    url: https://www.spielgruppe-halstenbek.de
   - name: Forschungsgruppe
-    url: datascience.entavis.com
+    url: https://datascience.entavis.com
+    maxResponseTime: 5000
   - name: Augenarzt Tornesch
-    url: augenarzt-tornesch.de
+    url: https://www.augenarzt-tornesch.de
   - name: Zahnarzt Tornesch
-    url: zahnarzt-richel.de
+    url: https://www.zahnarzt-richel.de
 
 workflowSchedule:
   uptime: "*/60 * * * *"
