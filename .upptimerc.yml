@@ -33,8 +33,6 @@ status-website:
   introMessage: "This page provides an overview of the status of the websites I maintain:"
   themeUrl: https://bitnulleins.github.io/monitoring/custom.css
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
