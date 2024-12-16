@@ -26,12 +26,12 @@ workflowSchedule:
   uptime: "*/60 * * * *"
 
 status-website:
-  themeUrl: /assets/custom.css
   baseUrl: /monitoring
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: "Website status – bitnulleins"
+  logoUrl: https://github.com/bitnulleins/monitoring/blob/master/assets/monitoring.svg
+  name: bitnulleins
   introTitle: "**Website status**"
   introMessage: "This page provides an overview of the status of the websites I maintain:"
+  themeUrl: https://github.com/bitnulleins/monitoring/blob/master/assets/custom.css
   navbar:
     - title: Status
       href: /
