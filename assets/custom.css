@@ -25,3 +25,16 @@
   --graph-opacity: 1;
   --graph-filter: brightness(0) saturate(100%) invert(52%) sepia(74%) saturate(266%) hue-rotate(168deg) brightness(97%) contrast(91%);
 }
+
+article:before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: var(--background);
+    filter: var(--graph-filter);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
