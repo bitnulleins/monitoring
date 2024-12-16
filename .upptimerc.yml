@@ -31,7 +31,7 @@ status-website:
   name: bitnulleins
   introTitle: "**Website status**"
   introMessage: "This page provides an overview of the status of the websites I maintain:"
-  themeUrl: https://raw.githubusercontent.com/bitnulleins/monitoring/refs/heads/master/assets/custom.css
+  themeUrl: https://example.com/custom.css
   navbar:
     - title: Status
       href: /
