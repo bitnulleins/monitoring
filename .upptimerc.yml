@@ -9,8 +9,6 @@ sites:
   - name: bytethinks
     url: https://www.bytethinks.de
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
-  - name: bitnulleins
-    url: https://www.bitnulleins.de
   - name: SYNOLOGY
     url: $SECRET_SITE
   - name: Bricksfinder
