@@ -5,25 +5,34 @@ repo: monitoring # The name of this repository
 sites:
   - name: bit01
     url: https://www.bit01.de
-    expectedStatusCodes:
-      - 200
+    __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
   - name: bytethinks
     url: https://www.bytethinks.de
+    __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
   - name: bitnulleins
     url: https://www.bitnulleins.de
+  - name: SYNOLOGY
+    url: $SECRET_SITE
   - name: Bricksfinder
     url: https://bricksfinder.bit01.de
+    expectedStatusCodes:
+      - 200
   - name: Dohrn Heizung
     url: https://www.dohrn-heizung.de
+    __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
   - name: Spielgruppe Halstenbek
     url: https://www.spielgruppe-halstenbek.de
+    __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
   - name: Forschungsgruppe
     url: https://datascience.entavis.com
+    __dangerous__body_down: "There has been a critical error on this website"
     maxResponseTime: 5000
   - name: Augenarzt Tornesch
     url: https://www.augenarzt-tornesch.de
+    __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
   - name: Zahnarzt Tornesch
     url: https://www.zahnarzt-richel.de
+    __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
 
 workflowSchedule:
   uptime: "*/60 * * * *"
