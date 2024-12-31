@@ -31,6 +31,8 @@ sites:
   - name: Zahnarzt Tornesch
     url: https://www.zahnarzt-richel.de
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
+  - name: Keikogi Tool
+    url: https://keikogi.bitnulleins.de
 
 workflowSchedule:
   uptime: "*/60 * * * *"
