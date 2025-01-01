@@ -12,7 +12,7 @@ sites:
   - name: Keikogi Tool
     url: https://keikogi.bitnulleins.de
   - name: Bricksfinder
-    url: https://bricksfinder.bit01.de
+    url: https://bricksfinder.bitnulleins.de
     expectedStatusCodes:
       - 200
   - name: Dohrn Heizung
