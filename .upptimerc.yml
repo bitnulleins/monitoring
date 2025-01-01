@@ -9,8 +9,8 @@ sites:
   - name: bytethinks
     url: https://www.bytethinks.de
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
-  - name: SYNOLOGY
-    url: $SECRET_SITE
+  - name: Keikogi Tool
+    url: https://keikogi.bitnulleins.de
   - name: Bricksfinder
     url: https://bricksfinder.bit01.de
     expectedStatusCodes:
@@ -31,8 +31,8 @@ sites:
   - name: Zahnarzt Tornesch
     url: https://www.zahnarzt-richel.de
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
-  - name: Keikogi Tool
-    url: https://keikogi.bitnulleins.de
+  - name: SYNOLOGY
+    url: $SECRET_SITE
 
 workflowSchedule:
   uptime: "*/60 * * * *"
