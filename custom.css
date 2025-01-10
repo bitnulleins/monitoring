@@ -1,0 +1,44 @@
+:root {
+  --body-background-color: #2F3030;
+  --body-text-color: #fff;
+  --card-background-color: #444;
+  --nav-background-color: #222;
+  --nav-text-color: #FFF;
+  --nav-border-bottom-color: transparent;
+  --nav-current-border-bottom-color: #6699CC;
+  --card-border-color: transparent;
+  --down-border-left-color: #eb3b5a;
+  --down-background-color: #6b1020;
+  --degraded-border-left-color: #f7b731;
+  --up-border-left-color: #20bf6b;
+  --tag-color: #002b29;
+  --tag-up-background-color: #20bf6b;
+  --tag-down-background-color: #eb3b5a;
+  --tag-degraded-background-color: #f7b731;
+  --change-background-color: #f7b731;
+  --error-button-border-color: red;
+  --error-button-background-color: red;
+  --error-button-color: #ffffff;
+  --submit-button-border-color: #6699CC;
+  --submit-button-background-color: #6699CC;
+  --submit-button-color: #ffffff;
+  --graph-opacity: 1;
+  --graph-filter: brightness(0) saturate(100%) invert(52%) sepia(74%) saturate(266%) hue-rotate(168deg) brightness(97%) contrast(91%);
+}
+
+article:before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: var(--background);
+    filter: var(--graph-filter);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+article > * {
+    position: relative;
+}
