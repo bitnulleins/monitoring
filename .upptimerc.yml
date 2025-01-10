@@ -57,7 +57,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/bitnulleins/monitoring/refs/heads/master/assets/monitoring.svg
   name: bitnulleins
   introTitle: "**Website status**"
-  introMessage: "This page provides an overview of the status of the websites I maintain:"
+  introMessage: "This page provides an overview of the status of my supervised projects:"
   themeUrl: https://bitnulleins.github.io/monitoring/custom.css
   navbar:
     - title: GitHub
