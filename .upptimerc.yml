@@ -59,6 +59,10 @@ status-website:
   introTitle: "**Website status**"
   introMessage: "This page provides an overview of the status of my supervised projects:"
   themeUrl: https://bitnulleins.github.io/monitoring/custom.css
+  robotsText: "User-agent: * \n Disallow: /"
+  metaTags:
+    - name: "robots"
+      content: "noindex"
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
