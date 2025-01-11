@@ -1,16 +1,16 @@
 ---
 name: Maintenance Event
 about: Schedule a work window
-title: "[Scheduled Maintenance] Site down for Maintenance"
+title: "🚧 [Scheduled Maintenance] Site down for Maintenance"
 labels: maintenance
 assignees: ''
 
 ---
 
 <!--
-start: 2021-08-24T13:00:00.220Z
-end: 2021-08-24T14:00:00.220Z
-expectedDown: google, hacker-news
+start: 2021-02-24T13:00:00+02:00
+end: 2021-02-24T14:00:00+02:00
+expectedDown: SYNOLOGY
 -->
 
 **Additional context**
