@@ -26,6 +26,13 @@
   --graph-filter: brightness(0) saturate(100%) invert(52%) sepia(74%) saturate(266%) hue-rotate(168deg) brightness(97%) contrast(91%);
 }
 
+/* Hide past incidents and maintenance tickets */
+.container section:not(.live-status):nth-last-child(1),
+.container section:not(.live-status):nth-last-child(2) {
+    display:none;
+}
+
+/* Change color of graph */
 article:before {
     content: "";
     position: absolute;
