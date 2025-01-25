@@ -52,6 +52,9 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "0,30 * * * *"
 
+i18n:
+  locale: 'de-DE'
+
 status-website:
   baseUrl: /monitoring
   logoUrl: https://raw.githubusercontent.com/bitnulleins/monitoring/refs/heads/master/assets/monitoring.svg
@@ -60,6 +63,7 @@ status-website:
   introMessage: "This page provides an overview of the status of my supervised projects:"
   themeUrl: https://bitnulleins.github.io/monitoring/custom.css
   robotsText: "User-agent: * \n Disallow: /"
+  favicon: https://bitnulleins.de/favicon-32x32.png
   metaTags:
     - name: "robots"
       content: "noindex"
