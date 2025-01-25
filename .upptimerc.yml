@@ -53,7 +53,7 @@ workflowSchedule:
   uptime: "0,30 * * * *"
 
 i18n:
-  locale: 'de-DE'
+  locale: de-DE
 
 status-website:
   baseUrl: /monitoring
