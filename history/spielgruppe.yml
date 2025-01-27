@@ -1,7 +1,7 @@
 url: $SITE_SPIELGRUPPE
-status: degraded
+status: up
 code: 200
-responseTime: 21100
-lastUpdated: 2025-01-27T13:39:34.733Z
+responseTime: 1292
+lastUpdated: 2025-01-27T14:13:48.237Z
 startTime: 2025-01-10T15:15:32.717Z
 generator: Upptime <https://github.com/upptime/upptime>
