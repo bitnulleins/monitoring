@@ -28,8 +28,8 @@
 
 /* Hide past incidents and maintenance tickets */
 .container section:not(.live-status):nth-last-child(1),
-.container section:not(.live-status):nth-last-child(2) {
-    display:none;
+.container section:not(.live-status):nth-last-child(2) :not(iframe) {
+    display: none;
 }
 
 /* Change color of graph */
