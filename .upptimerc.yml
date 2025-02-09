@@ -50,7 +50,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "0,30 * * * *"
+  uptime: "*/5 * * * *"
 
 i18n:
   locale: de-DE
