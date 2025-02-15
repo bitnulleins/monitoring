@@ -1,7 +1,7 @@
 url: $SITE_FORSCHUNG
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-15T14:44:30.714Z
+status: up
+code: 200
+responseTime: 1201
+lastUpdated: 2025-02-15T14:51:53.892Z
 startTime: 2025-01-10T15:15:34.482Z
 generator: Upptime <https://github.com/upptime/upptime>
