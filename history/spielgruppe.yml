@@ -1,7 +1,7 @@
 url: $SITE_SPIELGRUPPE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-10T14:34:48.258Z
+status: up
+code: 200
+responseTime: 658
+lastUpdated: 2025-03-10T14:45:43.397Z
 startTime: 2025-01-10T15:15:32.717Z
 generator: Upptime <https://github.com/upptime/upptime>
