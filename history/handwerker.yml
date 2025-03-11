@@ -1,7 +1,7 @@
 url: $SITE_HANDWERKER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-11T15:17:20.013Z
+status: up
+code: 200
+responseTime: 892
+lastUpdated: 2025-03-11T15:34:24.738Z
 startTime: 2025-01-10T15:15:24.231Z
 generator: Upptime <https://github.com/upptime/upptime>
