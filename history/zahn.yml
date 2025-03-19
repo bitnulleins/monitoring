@@ -1,7 +1,7 @@
 url: $SITE_ZAHN
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-19T21:12:13.439Z
+status: up
+code: 200
+responseTime: 1622
+lastUpdated: 2025-03-19T21:27:48.943Z
 startTime: 2025-01-10T15:15:37.895Z
 generator: Upptime <https://github.com/upptime/upptime>
