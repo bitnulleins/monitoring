@@ -1,7 +1,7 @@
 url: $SITE_FORSCHUNG
-status: degraded
+status: up
 code: 200
-responseTime: 2284
-lastUpdated: 2025-05-20T23:41:58.673Z
+responseTime: 1457
+lastUpdated: 2025-05-20T23:50:31.215Z
 startTime: 2025-01-10T15:15:34.482Z
 generator: Upptime <https://github.com/upptime/upptime>
