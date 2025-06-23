@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1282,
     "timeDay": 1176,
-    "timeWeek": 1240,
+    "timeWeek": 1245,
     "timeMonth": 1196,
     "timeYear": 1282,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1012,
     "timeDay": 1011,
-    "timeWeek": 985,
+    "timeWeek": 968,
     "timeMonth": 993,
     "timeYear": 1012,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 718,
     "timeDay": 619,
-    "timeWeek": 684,
+    "timeWeek": 681,
     "timeMonth": 725,
     "timeYear": 718,
     "dailyMinutesDown": {}
@@ -76,19 +76,19 @@
     "url": "$SITE_HANDWERKER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "handwerker",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.98%",
-    "time": 1331,
-    "timeDay": 1577,
-    "timeWeek": 1377,
-    "timeMonth": 1291,
-    "timeYear": 1331,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.97%",
+    "time": 1329,
+    "timeDay": 1166,
+    "timeWeek": 1299,
+    "timeMonth": 1281,
+    "timeYear": 1329,
     "dailyMinutesDown": {
-      "2025-06-23": 0,
+      "2025-06-23": 24,
       "2025-06-20": 44
     }
   },
@@ -105,7 +105,7 @@
     "uptimeYear": "99.98%",
     "time": 1275,
     "timeDay": 1041,
-    "timeWeek": 1277,
+    "timeWeek": 1261,
     "timeMonth": 1058,
     "timeYear": 1275,
     "dailyMinutesDown": {
@@ -125,7 +125,7 @@
     "uptimeYear": "100.00%",
     "time": 1179,
     "timeDay": 1116,
-    "timeWeek": 1171,
+    "timeWeek": 1167,
     "timeMonth": 1179,
     "timeYear": 1179,
     "dailyMinutesDown": {}
@@ -143,7 +143,7 @@
     "uptimeYear": "100.00%",
     "time": 1427,
     "timeDay": 1371,
-    "timeWeek": 1375,
+    "timeWeek": 1366,
     "timeMonth": 1333,
     "timeYear": 1427,
     "dailyMinutesDown": {}
@@ -161,7 +161,7 @@
     "uptimeYear": "100.00%",
     "time": 1122,
     "timeDay": 1108,
-    "timeWeek": 1156,
+    "timeWeek": 1150,
     "timeMonth": 1115,
     "timeYear": 1122,
     "dailyMinutesDown": {}
@@ -179,7 +179,7 @@
     "uptimeYear": "100.00%",
     "time": 1472,
     "timeDay": 1623,
-    "timeWeek": 1498,
+    "timeWeek": 1462,
     "timeMonth": 1442,
     "timeYear": 1472,
     "dailyMinutesDown": {}
