@@ -1,7 +1,7 @@
 url: $SITE_SYNOLOGY
-status: up
+status: degraded
 code: 200
-responseTime: 3702
-lastUpdated: 2025-06-30T06:50:18.556Z
+responseTime: 13590
+lastUpdated: 2025-06-30T15:41:26.790Z
 startTime: 2025-01-10T15:15:40.261Z
 generator: Upptime <https://github.com/upptime/upptime>
