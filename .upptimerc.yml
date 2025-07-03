@@ -45,6 +45,7 @@ sites:
     maxResponseTime: 2000
   - name: SYNOLOGY
     url: $SITE_SYNOLOGY
+    port: $SITE_SYNOLOGY_PORT
     maxResponseTime: 4000
 
 workflowSchedule:
