@@ -82,11 +82,11 @@
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 1339,
+    "time": 1336,
     "timeDay": 1359,
     "timeWeek": 1507,
     "timeMonth": 1327,
-    "timeYear": 1339,
+    "timeYear": 1336,
     "dailyMinutesDown": {
       "2025-06-30": 37
     }
@@ -188,7 +188,7 @@
     "slug": "synology",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "20.08%",
+    "uptimeDay": "20.10%",
     "uptimeWeek": "68.48%",
     "uptimeMonth": "92.75%",
     "uptimeYear": "98.73%",
