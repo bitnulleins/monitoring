@@ -1,7 +1,7 @@
 url: $SITE_ZAHN
-status: degraded
+status: up
 code: 200
-responseTime: 2800
-lastUpdated: 2025-07-09T09:42:00.745Z
+responseTime: 1568
+lastUpdated: 2025-07-09T10:12:46.761Z
 startTime: 2025-01-10T15:15:37.895Z
 generator: Upptime <https://github.com/upptime/upptime>
