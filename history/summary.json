@@ -166,18 +166,20 @@
     "url": "$SITE_ZAHN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zahn",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1484,
-    "timeDay": 1546,
-    "timeWeek": 1520,
-    "timeMonth": 1581,
-    "timeYear": 1484,
-    "dailyMinutesDown": {}
+    "time": 1490,
+    "timeDay": 2173,
+    "timeWeek": 1626,
+    "timeMonth": 1613,
+    "timeYear": 1490,
+    "dailyMinutesDown": {
+      "2025-07-09": 0
+    }
   },
   {
     "name": "SYNOLOGY",
