@@ -4,10 +4,10 @@
     "url": "https://www.bit01.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bit01.de.ico",
     "slug": "bit01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1290,
@@ -15,7 +15,9 @@
     "timeWeek": 1240,
     "timeMonth": 1325,
     "timeYear": 1290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-10": 1
+    }
   },
   {
     "name": "bytethinks",
@@ -188,13 +190,13 @@
     "slug": "synology",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.44%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 2527,
-    "timeDay": 655,
-    "timeWeek": 858,
+    "timeDay": 665,
+    "timeWeek": 842,
     "timeMonth": 2105,
     "timeYear": 2527,
     "dailyMinutesDown": {
