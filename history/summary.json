@@ -96,9 +96,9 @@
     "url": "$SITE_SPIELGRUPPE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spielgruppe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 1027,
     "timeMonth": 1233,
     "timeYear": 1270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "Karate",
