@@ -96,19 +96,19 @@
     "url": "$SITE_SPIELGRUPPE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spielgruppe",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1270,
-    "timeDay": 1513,
-    "timeWeek": 1027,
-    "timeMonth": 1233,
-    "timeYear": 1270,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 1269,
+    "timeDay": 1263,
+    "timeWeek": 1025,
+    "timeMonth": 1228,
+    "timeYear": 1269,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 26
     }
   },
   {
