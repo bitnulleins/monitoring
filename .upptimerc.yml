@@ -27,6 +27,10 @@ sites:
     url: $SITE_SPIELGRUPPE
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
+  - name: Natur Blog
+    url: $SITE_NATUR
+    __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
+    maxResponseTime: 2000
   - name: Karate
     url: $SITE_KARATE
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
