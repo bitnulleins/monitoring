@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1283,
     "timeDay": 663,
-    "timeWeek": 1052,
+    "timeWeek": 1106,
     "timeMonth": 1219,
     "timeYear": 1283,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 709,
     "timeDay": 639,
-    "timeWeek": 672,
+    "timeWeek": 684,
     "timeMonth": 699,
     "timeYear": 709,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 1362,
     "timeDay": 944,
-    "timeWeek": 1251,
+    "timeWeek": 1326,
     "timeMonth": 1409,
     "timeYear": 1362,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1243,
     "timeDay": 913,
-    "timeWeek": 1049,
+    "timeWeek": 1102,
     "timeMonth": 1164,
     "timeYear": 1243,
     "dailyMinutesDown": {}
@@ -204,19 +204,19 @@
     "url": "$SITE_SYNOLOGY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "synology",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1842,
-    "timeDay": 650,
-    "timeWeek": 826,
-    "timeMonth": 780,
-    "timeYear": 1842,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.98%",
+    "time": 1839,
+    "timeDay": 765,
+    "timeWeek": 828,
+    "timeMonth": 781,
+    "timeYear": 1839,
     "dailyMinutesDown": {
-      "2025-09-16": 0
+      "2025-09-16": 65
     }
   }
 ]
