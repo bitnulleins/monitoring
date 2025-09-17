@@ -204,18 +204,19 @@
     "url": "$SITE_SYNOLOGY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "synology",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "95.49%",
-    "uptimeWeek": "99.36%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 1836,
-    "timeDay": 834,
-    "timeWeek": 831,
-    "timeMonth": 787,
+    "timeDay": 788,
+    "timeWeek": 827,
+    "timeMonth": 791,
     "timeYear": 1836,
     "dailyMinutesDown": {
+      "2025-09-17": 0,
       "2025-09-16": 65
     }
   }
