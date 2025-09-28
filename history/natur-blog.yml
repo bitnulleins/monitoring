@@ -1,7 +1,7 @@
 url: $SITE_NATUR
-status: up
+status: degraded
 code: 200
-responseTime: 1342
-lastUpdated: 2025-09-27T23:09:59.342Z
+responseTime: 4740
+lastUpdated: 2025-09-28T03:48:55.539Z
 startTime: 2025-08-11T19:20:35.472Z
 generator: Upptime <https://github.com/upptime/upptime>
