@@ -4,10 +4,10 @@
     "url": "https://www.bit01.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bit01.de.ico",
     "slug": "bit01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1278,
@@ -15,7 +15,9 @@
     "timeWeek": 1159,
     "timeMonth": 1182,
     "timeYear": 1278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-14": 2
+    }
   },
   {
     "name": "bytethinks",
@@ -76,9 +78,9 @@
     "url": "$SITE_HANDWERKER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "handwerker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +89,9 @@
     "timeWeek": 1219,
     "timeMonth": 1282,
     "timeYear": 1358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-14": 0
+    }
   },
   {
     "name": "Spielgruppe",
