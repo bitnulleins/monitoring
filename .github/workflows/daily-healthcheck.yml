@@ -1,0 +1,38 @@
+name: Daily Healthcheck Ping
+
+on:
+  schedule:
+    - cron: "0 12 * * *"  # Läuft täglich um 12:00 UTC
+  workflow_dispatch:       # Manuelles Auslösen möglich
+
+jobs:
+  healthcheck:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl yq
+
+      - name: Read URLs from .upptimerc.yml
+        id: read_urls
+        run: |
+          echo "Lese URLs aus .upptimerc.yml..."
+          URLS=$(yq -r '.sites[].url' .upptimerc.yml)
+          echo "$URLS" > urls.txt
+          echo "Gefundene URLs:"
+          cat urls.txt
+
+      - name: Ping each URL
+        run: |
+          echo "Starte Healthcheck-Pings..."
+          while read -r url; do
+            echo "Pinge $url ..."
+            # Der Request wird 5 Sekunden warten und Fehler ignorieren
+            curl -fsS --max-time 5 "$url" || echo "Fehler beim Pingen von $url"
+          done < urls.txt
+          echo "✅ Alle URLs wurden gepingt."
