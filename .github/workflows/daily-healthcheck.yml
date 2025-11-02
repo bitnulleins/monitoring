@@ -2,7 +2,7 @@ name: Daily Healthcheck Ping
 
 on:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 12 * * *"  # täglich 12:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -10,31 +10,44 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      # 1️⃣ Repository auschecken
+      - name: Checkout
         uses: actions/checkout@v4
 
+      # 2️⃣ yq installieren, um YAML zu parsen
       - name: Install yq
         run: |
           sudo wget -O /usr/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64
           sudo chmod +x /usr/bin/yq
 
-      - name: Resolve URLs from .upptimerc.yml and GitHub Secrets
+      # 3️⃣ Healthcheck durchführen
+      - name: Ping URLs
+        env:
+          # Secrets werden automatisch als ENV bereitgestellt
+          SECRETS_CONTEXT: ${{ toJson(secrets) }}
         run: |
           echo "Lese URLs aus .upptimerc.yml..."
           URLS=$(yq -r '.sites[].url' .upptimerc.yml)
 
+          # Secrets JSON in Bash Array parsen
+          echo "Secrets laden..."
+          secrets_json="$SECRETS_CONTEXT"
+
           echo "Starte Healthcheck-Pings..."
           for url in $URLS; do
-            # Prüfe, ob es ein Secret ist, z.B. ${API_URL}
-            if [[ "$url" =~ ^\$\{(.+)\}$ ]]; then
-              SECRET_NAME="${BASH_REMATCH[1]}"
-              url="${!SECRET_NAME}"   # Wert aus GitHub Secrets
+            # Wenn URL ein Platzhalter wie $SITE_XYZ ist, Secret ersetzen
+            if [[ "$url" =~ ^\$([A-Z0-9_]+)$ ]]; then
+              secret_name="${BASH_REMATCH[1]}"
+              # Wert aus secrets_json holen
+              expanded_url=$(echo "$secrets_json" | jq -r --arg key "$secret_name" '.[$key]')
+            else
+              expanded_url="$url"
             fi
 
-            echo "Pinge $url ..."
-            if curl -o /dev/null -s -w "%{http_code}" --max-time 5 "$url" >/dev/null; then
-              echo "✅ $url erreichbar"
+            echo "Pinge $expanded_url ..."
+            if curl -o /dev/null -s -w "%{http_code}" --max-time 5 "$expanded_url" >/dev/null; then
+              echo "✅ $expanded_url erreichbar"
             else
-              echo "❌ Fehler beim Pingen von $url"
+              echo "❌ Fehler beim Pingen von $expanded_url"
             fi
           done
