@@ -2,7 +2,7 @@ name: Daily Healthcheck Ping
 
 on:
   schedule:
-    - cron: "0 12 * * *"  # Täglich um 12:00 UTC
+    - cron: "0 12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,25 +18,23 @@ jobs:
           sudo wget -O /usr/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64
           sudo chmod +x /usr/bin/yq
 
-      - name: Read URLs from .upptimerc.yml
-        id: read_urls
+      - name: Resolve URLs from .upptimerc.yml and GitHub Secrets
         run: |
           echo "Lese URLs aus .upptimerc.yml..."
           URLS=$(yq -r '.sites[].url' .upptimerc.yml)
-          echo "$URLS" > urls.txt
-          echo "Gefundene URLs:"
-          cat urls.txt
 
-      - name: Ping each URL
-        run: |
           echo "Starte Healthcheck-Pings..."
-          while read -r url; do
+          for url in $URLS; do
+            # Prüfe, ob es ein Secret ist, z.B. ${API_URL}
+            if [[ "$url" =~ ^\$\{(.+)\}$ ]]; then
+              SECRET_NAME="${BASH_REMATCH[1]}"
+              url="${!SECRET_NAME}"   # Wert aus GitHub Secrets
+            fi
+
             echo "Pinge $url ..."
-            # Curl ohne Ausgabe, nur Fehlerstatus
             if curl -o /dev/null -s -w "%{http_code}" --max-time 5 "$url" >/dev/null; then
               echo "✅ $url erreichbar"
             else
               echo "❌ Fehler beim Pingen von $url"
             fi
-          done < urls.txt
-          echo "✅ Alle URLs wurden gepingt."
+          done
