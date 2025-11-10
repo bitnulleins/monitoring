@@ -2,7 +2,7 @@ name: Daily Healthcheck Ping
 
 on:
   schedule:
-    - cron: "0 12 * * *"  # täglich 12:00 UTC
+    - cron: "0 */6 * * *"  # täglich 12:00 UTC
   workflow_dispatch:
 
 jobs:
