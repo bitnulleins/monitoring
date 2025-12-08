@@ -50,6 +50,9 @@ sites:
   - name: SYNOLOGY
     url: $SITE_SYNOLOGY
     maxResponseTime: 4000
+  - name: DNAS
+    url: $SITE_DNAS
+    maxResponseTime: 4000
 
 workflowSchedule:
   graphs: "0 0 * * *"
