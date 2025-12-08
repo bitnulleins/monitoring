@@ -206,19 +206,19 @@
     "url": "$SITE_SYNOLOGY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "synology",
-    "status": "degraded",
-    "uptime": "99.97%",
-    "uptimeDay": "95.35%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "91.67%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.96%",
     "time": 1626,
-    "timeDay": 2399,
-    "timeWeek": 1354,
-    "timeMonth": 980,
+    "timeDay": 2210,
+    "timeWeek": 1363,
+    "timeMonth": 993,
     "timeYear": 1626,
     "dailyMinutesDown": {
-      "2025-12-08": 1,
+      "2025-12-08": 54,
       "2025-12-07": 66,
       "2025-12-05": 75
     }
@@ -229,18 +229,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dnas",
     "status": "down",
-    "uptime": "0.19%",
-    "uptimeDay": "0.19%",
-    "uptimeWeek": "0.19%",
-    "uptimeMonth": "0.19%",
-    "uptimeYear": "0.19%",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-08": 265
+      "2025-12-08": 318
     }
   }
 ]
