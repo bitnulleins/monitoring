@@ -154,18 +154,20 @@
     "url": "$SITE_FORSCHUNG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forschungsgruppe",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1437,
-    "timeDay": 1523,
-    "timeWeek": 1699,
-    "timeMonth": 1562,
-    "timeYear": 1437,
-    "dailyMinutesDown": {}
+    "time": 1442,
+    "timeDay": 2335,
+    "timeWeek": 1860,
+    "timeMonth": 1610,
+    "timeYear": 1442,
+    "dailyMinutesDown": {
+      "2025-12-11": 1
+    }
   },
   {
     "name": "Auge",
@@ -244,7 +246,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 791,
+      "2025-12-11": 1072,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 874
