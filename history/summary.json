@@ -154,19 +154,19 @@
     "url": "$SITE_FORSCHUNG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forschungsgruppe",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1442,
-    "timeDay": 2335,
-    "timeWeek": 1860,
-    "timeMonth": 1610,
-    "timeYear": 1442,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
+    "time": 1443,
+    "timeDay": 2214,
+    "timeWeek": 1871,
+    "timeMonth": 1620,
+    "timeYear": 1443,
     "dailyMinutesDown": {
-      "2025-12-11": 1
+      "2025-12-11": 61
     }
   },
   {
@@ -246,7 +246,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 1072,
+      "2025-12-11": 1133,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 874
