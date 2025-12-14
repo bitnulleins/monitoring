@@ -1,4 +1,4 @@
-name: Daily Healthcheck Ping
+name: Pre Uptime
 
 on:
   schedule:
