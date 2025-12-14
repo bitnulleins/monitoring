@@ -31,38 +31,6 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
-      - name: Install yq
-        run: |
-          sudo wget -O /usr/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64
-          sudo chmod +x /usr/bin/yq
-      - name: Precheck endpoints
-        run: |
-          echo "Read URLs from .upptimerc.yml..."
-          URLS=$(yq -r '.sites[].url' .upptimerc.yml)
-
-          # Secrets JSON in Bash Array parsen
-          echo "Load secrets..."
-          secrets_json="$SECRETS_CONTEXT"
-
-          echo "Starte Healthcheck-Pings..."
-          for url in $URLS; do
-            # Replace secret
-            if [[ "$url" =~ ^\$([A-Z0-9_]+)$ ]]; then
-              secret_name="${BASH_REMATCH[1]}"
-              expanded_url=$(echo "$secrets_json" | jq -r --arg key "$secret_name" '.[$key]')
-            else
-              expanded_url="$url"
-            fi
-
-            echo "Call $expanded_url ..."
-            if curl -o /dev/null -s -w "%{http_code}" --max-time 5 "$expanded_url" >/dev/null; then
-              echo "✅ $expanded_url"
-            else
-              echo "❌ $expanded_url"
-            fi
-          done
-        env:
-          SECRETS_CONTEXT: ${{ toJson(secrets) }}
       - name: Check endpoint status
         uses: upptime/uptime-monitor@v1.41.0
         with:
