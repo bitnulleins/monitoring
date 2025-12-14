@@ -1,10 +1,5 @@
 name: Daily Healthcheck Ping
 
-on:
-  schedule:
-    - cron: "0 */1 * * *"
-  workflow_dispatch:
-
 jobs:
   healthcheck:
     runs-on: ubuntu-latest
