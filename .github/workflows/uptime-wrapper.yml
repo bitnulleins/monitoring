@@ -1,0 +1,12 @@
+# Calls the original uptime.yml from upptime.js, if Pre Uptime run successfully
+name: Uptime Wrapper
+
+on:
+  workflow_run:
+    workflows: ["Pre Uptime"]
+    types: [completed]
+
+jobs:
+  run-uptime:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    uses: ./.github/workflows/uptime.yml
