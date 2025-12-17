@@ -7,52 +7,76 @@ sites:
     url: https://www.bit01.de
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
+    type: globalping
+    location: Hamburg
   - name: bytethinks
     url: https://www.bytethinks.de
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
+    type: globalping
+    location: Hamburg
   - name: Keikogi Tool
     url: https://keikogi.bitnulleins.de
     maxResponseTime: 2000
+    type: globalping
+    location: Hamburg
   - name: Bricksfinder
     url: https://bricksfinder.bitnulleins.de
-    expectedStatusCodes:
-      - 200
     maxResponseTime: 2000
+    type: globalping
+    location: Hamburg
   - name: Handwerker
     url: $SITE_HANDWERKER
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
+    type: globalping
+    location: Hamburg
   - name: Spielgruppe
     url: $SITE_SPIELGRUPPE
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
+    type: globalping
+    location: Hamburg
   - name: Natur Blog
     url: $SITE_NATUR
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
+    type: globalping
+    location: Hamburg
   - name: Karate
     url: $SITE_KARATE
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
+    type: globalping
+    location: Hamburg
   - name: Forschungsgruppe
     url: $SITE_FORSCHUNG
     __dangerous__body_down: "There has been a critical error on this website"
     maxResponseTime: 2000
+    type: globalping
+    location: Hamburg
   - name: Auge
     url: $SITE_AUGE
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
+    type: globalping
+    location: Hamburg
   - name: Zahn
     url: $SITE_ZAHN
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
+    type: globalping
+    location: Hamburg
   - name: SYNOLOGY
     url: $SITE_SYNOLOGY
     maxResponseTime: 4000
+    type: globalping
+    location: Hamburg
   - name: DNAS
     url: $SITE_DNAS
     maxResponseTime: 4000
+    type: globalping
+    location: Hamburg
 
 workflowSchedule:
   graphs: "0 0 * * *"
