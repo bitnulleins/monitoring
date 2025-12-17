@@ -1,7 +1,7 @@
 url: $SITE_SYNOLOGY
-status: down
-code: null
-responseTime: 0
-lastUpdated: 2025-12-17T06:19:19.610Z
+status: up
+code: 200
+responseTime: 89
+lastUpdated: 2025-12-17T08:50:36.714Z
 startTime: 2025-01-10T15:15:40.261Z
 generator: Upptime <https://github.com/upptime/upptime>
