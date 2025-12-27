@@ -68,14 +68,16 @@ sites:
     type: globalping
     location: Hamburg
   - name: NAS
-    url: $SITE_SYNOLOGY
-    maxResponseTime: 4000
+   check: "tcp-ping"
+    url: $SITE_NAS
+    port: $SITE_NAS_PORT
+    maxResponseTime: 2000
     type: globalping
     location: Hamburg
-  - name: DNAS
+  - name: BACKUP
     check: "tcp-ping"
-    url: $SITE_DNAS
-    port: $SITE_DNAS_PORT
+    url: $SITE_BACKUP
+    port: $SITE_BACKUP_PORT
     maxResponseTime: 2000
     type: globalping
     location: Hamburg
