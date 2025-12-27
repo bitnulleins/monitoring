@@ -68,7 +68,7 @@ sites:
     type: globalping
     location: Hamburg
   - name: NAS
-   check: "tcp-ping"
+    check: "tcp-ping"
     url: $SITE_NAS
     port: $SITE_NAS_PORT
     maxResponseTime: 2000
