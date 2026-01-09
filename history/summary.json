@@ -40,9 +40,9 @@
     "url": "https://keikogi.bitnulleins.de",
     "icon": "https://icons.duckduckgo.com/ip3/keikogi.bitnulleins.de.ico",
     "slug": "keikogi-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +51,18 @@
     "timeWeek": 83,
     "timeMonth": 244,
     "timeYear": 685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-09": 0
+    }
   },
   {
     "name": "Bricksfinder",
     "url": "https://bricksfinder.bitnulleins.de",
     "icon": "https://icons.duckduckgo.com/ip3/bricksfinder.bitnulleins.de.ico",
     "slug": "bricksfinder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 71,
     "timeMonth": 247,
     "timeYear": 678,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-09": 0
+    }
   },
   {
     "name": "Handwerker",
@@ -85,7 +89,7 @@
     "time": 1334,
     "timeDay": 575,
     "timeWeek": 609,
-    "timeMonth": 894,
+    "timeMonth": 892,
     "timeYear": 1334,
     "dailyMinutesDown": {}
   },
