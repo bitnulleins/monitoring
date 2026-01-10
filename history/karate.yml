@@ -1,7 +1,7 @@
 url: $SITE_KARATE
-status: down
-code: 422
-responseTime: 0
-lastUpdated: 2026-01-10T16:44:46.762Z
+status: up
+code: 200
+responseTime: 461
+lastUpdated: 2026-01-10T17:38:58.203Z
 startTime: 2025-06-13T16:28:13.683Z
 generator: Upptime <https://github.com/upptime/upptime>
