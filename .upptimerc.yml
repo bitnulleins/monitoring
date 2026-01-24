@@ -9,75 +9,64 @@ sites:
     maxResponseTime: 2000
     type: globalping
     location: germany
-    delay: 2000
   - name: bytethinks
     url: https://www.bytethinks.de
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
     type: globalping
     location: germany
-    delay: 2000
   - name: Keikogi Tool
     url: https://keikogi.bitnulleins.de
     maxResponseTime: 2000
     type: globalping
     location: germany
-    delay: 2000
   - name: Bricksfinder
     url: https://bricksfinder.bitnulleins.de
     maxResponseTime: 2000
     type: globalping
     location: germany
-    delay: 2000
   - name: Handwerker
     url: $SITE_HANDWERKER
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
     type: globalping
     location: germany
-    delay: 2000
   - name: Spielgruppe
     url: $SITE_SPIELGRUPPE
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
     type: globalping
     location: germany
-    delay: 2000
   - name: Natur Blog
     url: $SITE_NATUR
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
     type: globalping
     location: germany
-    delay: 2000
   - name: Karate
     url: $SITE_KARATE
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
     type: globalping
     location: germany
-    delay: 2000
   - name: Forschungsgruppe
     url: $SITE_FORSCHUNG
     __dangerous__body_down: "There has been a critical error on this website"
     maxResponseTime: 2000
     type: globalping
     location: germany
-    delay: 2000
   - name: Auge
     url: $SITE_AUGE
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
     type: globalping
     location: germany
-    delay: 2000
   - name: Zahn
     url: $SITE_ZAHN
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
     maxResponseTime: 2000
     type: globalping
     location: germany
-    delay: 2000
   - name: NAS
     check: "tcp-ping"
     url: $SITE_NAS
@@ -85,7 +74,6 @@ sites:
     maxResponseTime: 2000
     type: globalping
     location: germany
-    delay: 2000
   - name: BACKUP
     check: "tcp-ping"
     url: $SITE_BACKUP
@@ -93,7 +81,6 @@ sites:
     maxResponseTime: 2000
     type: globalping
     location: germany
-    delay: 2000
 
 workflowSchedule:
   graphs: "0 0 * * *"
