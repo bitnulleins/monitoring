@@ -69,9 +69,9 @@
     "slug": "bricksfinder",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 653,
     "timeDay": 122,
@@ -79,7 +79,6 @@
     "timeMonth": 95,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2026-01-24": 10,
       "2026-01-20": 48
     }
   },
@@ -90,9 +89,9 @@
     "slug": "handwerker",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 1313,
     "timeDay": 661,
@@ -100,7 +99,6 @@
     "timeMonth": 663,
     "timeYear": 1305,
     "dailyMinutesDown": {
-      "2026-01-24": 10,
       "2026-01-20": 48
     }
   },
@@ -111,9 +109,9 @@
     "slug": "spielgruppe",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 1121,
     "timeDay": 131,
@@ -121,7 +119,6 @@
     "timeMonth": 120,
     "timeYear": 1119,
     "dailyMinutesDown": {
-      "2026-01-24": 10,
       "2026-01-20": 48
     }
   },
@@ -132,9 +129,9 @@
     "slug": "natur-blog",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 1287,
     "timeDay": 506,
@@ -142,7 +139,6 @@
     "timeMonth": 528,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2026-01-24": 10,
       "2026-01-20": 48
     }
   },
@@ -152,18 +148,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karate",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 1111,
     "timeDay": 645,
     "timeWeek": 530,
     "timeMonth": 545,
     "timeYear": 1111,
     "dailyMinutesDown": {
-      "2026-01-24": 10,
       "2026-01-20": 48
     }
   },
@@ -174,9 +169,9 @@
     "slug": "forschungsgruppe",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 1358,
     "timeDay": 599,
@@ -184,7 +179,6 @@
     "timeMonth": 556,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2026-01-24": 10,
       "2026-01-20": 48
     }
   },
@@ -195,9 +189,9 @@
     "slug": "auge",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 1050,
     "timeDay": 92,
@@ -205,7 +199,6 @@
     "timeMonth": 113,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2026-01-24": 10,
       "2026-01-20": 48
     }
   },
@@ -216,9 +209,9 @@
     "slug": "zahn",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 1413,
     "timeDay": 1150,
@@ -226,7 +219,6 @@
     "timeMonth": 542,
     "timeYear": 1406,
     "dailyMinutesDown": {
-      "2026-01-24": 10,
       "2026-01-20": 48
     }
   },
@@ -236,18 +228,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 30,
     "timeDay": 21,
     "timeWeek": 25,
     "timeMonth": 30,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2026-01-24": 10,
       "2026-01-20": 48
     }
   },
@@ -257,18 +248,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 13,
     "timeDay": 12,
     "timeWeek": 9,
     "timeMonth": 13,
     "timeYear": 13,
     "dailyMinutesDown": {
-      "2026-01-24": 10,
       "2026-01-20": 48
     }
   }
