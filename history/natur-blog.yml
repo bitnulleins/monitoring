@@ -1,7 +1,7 @@
 url: $SITE_NATUR
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-01-24T13:05:42.004Z
+status: up
+code: 200
+responseTime: 570
+lastUpdated: 2026-01-24T13:15:40.551Z
 startTime: 2025-08-11T19:20:35.472Z
 generator: Upptime <https://github.com/upptime/upptime>
