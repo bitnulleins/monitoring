@@ -69,15 +69,13 @@ sites:
     location: germany
   - name: NAS
     url: $SITE_NAS
-    port: $SITE_NAS_PORT
-    maxResponseTime: 2000
+    maxResponseTime: 3000
     type: globalping
     location: germany
     __dangerous__disable_verify_peer: true
   - name: BACKUP
     url: $SITE_BACKUP
-    port: $SITE_BACKUP_PORT
-    maxResponseTime: 2000
+    maxResponseTime: 3000
     type: globalping
     location: germany
     __dangerous__disable_verify_peer: true
