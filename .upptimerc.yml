@@ -71,14 +71,14 @@ sites:
     check: "tcp-ping"
     url: $SITE_NAS
     port: $SITE_NAS_PORT
-    maxResponseTime: 2000
+    maxResponseTime: 40
     type: globalping
     location: germany
   - name: BACKUP
     check: "tcp-ping"
     url: $SITE_BACKUP
     port: $SITE_BACKUP_PORT
-    maxResponseTime: 2000
+    maxResponseTime: 40
     type: globalping
     location: germany
 
