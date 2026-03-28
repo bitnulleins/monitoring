@@ -68,19 +68,19 @@ sites:
     type: globalping
     location: germany
   - name: NAS
-    check: "tcp-ping"
     url: $SITE_NAS
     port: $SITE_NAS_PORT
-    maxResponseTime: 40
+    maxResponseTime: 2000
     type: globalping
     location: germany
+    __dangerous__disable_verify_peer: true
   - name: BACKUP
-    check: "tcp-ping"
     url: $SITE_BACKUP
     port: $SITE_BACKUP_PORT
-    maxResponseTime: 40
+    maxResponseTime: 2000
     type: globalping
     location: germany
+    __dangerous__disable_verify_peer: true
 
 workflowSchedule:
   graphs: "0 0 * * *"
