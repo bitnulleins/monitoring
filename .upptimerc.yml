@@ -69,13 +69,13 @@ sites:
     location: germany
   - name: NAS
     url: $SITE_NAS
-    maxResponseTime: 3000
+    maxResponseTime: 2000
     type: globalping
     location: germany
     __dangerous__disable_verify_peer: true
   - name: BACKUP
     url: $SITE_BACKUP
-    maxResponseTime: 3000
+    maxResponseTime: 2000
     type: globalping
     location: germany
     __dangerous__disable_verify_peer: true
