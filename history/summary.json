@@ -4,10 +4,10 @@
     "url": "https://www.bit01.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bit01.de.ico",
     "slug": "bit01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1106,
@@ -15,17 +15,19 @@
     "timeWeek": 532,
     "timeMonth": 527,
     "timeYear": 1036,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 1
+    }
   },
   {
     "name": "bytethinks",
     "url": "https://www.bytethinks.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bytethinks.de.ico",
     "slug": "bytethinks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 792,
@@ -33,17 +35,19 @@
     "timeWeek": 69,
     "timeMonth": 76,
     "timeYear": 723,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 1
+    }
   },
   {
     "name": "Keikogi Tool",
     "url": "https://keikogi.bitnulleins.de",
     "icon": "https://icons.duckduckgo.com/ip3/keikogi.bitnulleins.de.ico",
     "slug": "keikogi-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 564,
@@ -51,17 +55,19 @@
     "timeWeek": 82,
     "timeMonth": 103,
     "timeYear": 519,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 1
+    }
   },
   {
     "name": "Bricksfinder",
     "url": "https://bricksfinder.bitnulleins.de",
     "icon": "https://icons.duckduckgo.com/ip3/bricksfinder.bitnulleins.de.ico",
     "slug": "bricksfinder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 562,
@@ -69,17 +75,19 @@
     "timeWeek": 82,
     "timeMonth": 104,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 1
+    }
   },
   {
     "name": "Handwerker",
     "url": "$SITE_HANDWERKER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "handwerker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1193,
@@ -87,17 +95,19 @@
     "timeWeek": 817,
     "timeMonth": 671,
     "timeYear": 1151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 1
+    }
   },
   {
     "name": "Spielgruppe",
     "url": "$SITE_SPIELGRUPPE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "spielgruppe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 870,
@@ -105,17 +115,19 @@
     "timeWeek": 189,
     "timeMonth": 100,
     "timeYear": 817,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 1
+    }
   },
   {
     "name": "Natur Blog",
     "url": "$SITE_NATUR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "natur-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1031,
@@ -123,17 +135,19 @@
     "timeWeek": 442,
     "timeMonth": 549,
     "timeYear": 1031,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 1
+    }
   },
   {
     "name": "Karate",
     "url": "$SITE_KARATE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 966,
@@ -141,17 +155,19 @@
     "timeWeek": 569,
     "timeMonth": 531,
     "timeYear": 966,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 1
+    }
   },
   {
     "name": "Forschungsgruppe",
     "url": "$SITE_FORSCHUNG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forschungsgruppe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1227,
@@ -159,17 +175,19 @@
     "timeWeek": 566,
     "timeMonth": 561,
     "timeYear": 1219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 1
+    }
   },
   {
     "name": "Auge",
     "url": "$SITE_AUGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 886,
@@ -177,17 +195,19 @@
     "timeWeek": 73,
     "timeMonth": 81,
     "timeYear": 814,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 1
+    }
   },
   {
     "name": "Zahn",
     "url": "$SITE_ZAHN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zahn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1270,
@@ -195,7 +215,9 @@
     "timeWeek": 662,
     "timeMonth": 614,
     "timeYear": 1206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 1
+    }
   },
   {
     "name": "NAS",
@@ -220,10 +242,10 @@
     "url": "$SITE_BACKUP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 66,
@@ -231,6 +253,8 @@
     "timeWeek": 534,
     "timeMonth": 189,
     "timeYear": 66,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 1
+    }
   }
 ]
