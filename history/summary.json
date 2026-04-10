@@ -10,11 +10,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 1101,
-    "timeDay": 523,
-    "timeWeek": 513,
-    "timeMonth": 527,
-    "timeYear": 1032,
+    "time": 1100,
+    "timeDay": 527,
+    "timeWeek": 516,
+    "timeMonth": 528,
+    "timeYear": 1031,
     "dailyMinutesDown": {
       "2026-04-09": 96
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 788,
-    "timeDay": 66,
-    "timeWeek": 73,
-    "timeMonth": 76,
-    "timeYear": 718,
+    "time": 786,
+    "timeDay": 77,
+    "timeWeek": 75,
+    "timeMonth": 77,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2026-04-09": 96
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 562,
-    "timeDay": 106,
-    "timeWeek": 98,
+    "time": 561,
+    "timeDay": 98,
+    "timeWeek": 97,
     "timeMonth": 104,
-    "timeYear": 515,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2026-04-09": 96
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 561,
-    "timeDay": 446,
-    "timeWeek": 166,
-    "timeMonth": 122,
-    "timeYear": 514,
+    "time": 560,
+    "timeDay": 317,
+    "timeWeek": 155,
+    "timeMonth": 121,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2026-04-09": 96
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 1189,
-    "timeDay": 611,
-    "timeWeek": 639,
+    "time": 1188,
+    "timeDay": 627,
+    "timeWeek": 641,
     "timeMonth": 668,
-    "timeYear": 1146,
+    "timeYear": 1145,
     "dailyMinutesDown": {
       "2026-04-09": 96
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 864,
-    "timeDay": 94,
-    "timeWeek": 170,
-    "timeMonth": 100,
-    "timeYear": 811,
+    "time": 861,
+    "timeDay": 88,
+    "timeWeek": 161,
+    "timeMonth": 99,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2026-04-09": 96
     }
@@ -130,11 +130,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
-    "time": 1024,
-    "timeDay": 423,
-    "timeWeek": 443,
-    "timeMonth": 543,
-    "timeYear": 1024,
+    "time": 1022,
+    "timeDay": 417,
+    "timeWeek": 439,
+    "timeMonth": 540,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2026-04-09": 96
     }
@@ -150,11 +150,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 962,
-    "timeDay": 531,
-    "timeWeek": 565,
+    "time": 961,
+    "timeDay": 534,
+    "timeWeek": 563,
     "timeMonth": 532,
-    "timeYear": 962,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2026-04-09": 96
     }
@@ -171,10 +171,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 1224,
-    "timeDay": 555,
-    "timeWeek": 574,
-    "timeMonth": 564,
-    "timeYear": 1214,
+    "timeDay": 802,
+    "timeWeek": 646,
+    "timeMonth": 582,
+    "timeYear": 1215,
     "dailyMinutesDown": {
       "2026-04-09": 96
     }
@@ -190,11 +190,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 881,
-    "timeDay": 68,
-    "timeWeek": 74,
-    "timeMonth": 80,
-    "timeYear": 808,
+    "time": 880,
+    "timeDay": 78,
+    "timeWeek": 76,
+    "timeMonth": 81,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2026-04-09": 96
     }
@@ -210,31 +210,31 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 1266,
-    "timeDay": 577,
-    "timeWeek": 551,
-    "timeMonth": 611,
-    "timeYear": 1199,
+    "time": 1265,
+    "timeDay": 553,
+    "timeWeek": 547,
+    "timeMonth": 608,
+    "timeYear": 1198,
     "dailyMinutesDown": {
       "2026-04-09": 96
     }
   },
   {
-    "name": "CLOUD",
+    "name": "NAS",
     "url": "$SITE_NAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "cloud",
+    "slug": "nas",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 178,
-    "timeWeek": 178,
-    "timeMonth": 178,
-    "timeYear": 178,
+    "time": 79,
+    "timeDay": 250,
+    "timeWeek": 316,
+    "timeMonth": 200,
+    "timeYear": 79,
     "dailyMinutesDown": {}
   },
   {
@@ -248,11 +248,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.94%",
-    "time": 73,
-    "timeDay": 351,
-    "timeWeek": 354,
-    "timeMonth": 208,
-    "timeYear": 73,
+    "time": 75,
+    "timeDay": 347,
+    "timeWeek": 352,
+    "timeMonth": 212,
+    "timeYear": 75,
     "dailyMinutesDown": {
       "2026-04-09": 96
     }
