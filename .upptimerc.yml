@@ -67,7 +67,7 @@ sites:
     maxResponseTime: 2000
     type: globalping
     location: germany
-  - name: NAS
+  - name: CLOUD
     url: $SITE_NAS
     maxResponseTime: 2000
     type: globalping
