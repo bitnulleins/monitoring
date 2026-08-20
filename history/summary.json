@@ -183,17 +183,17 @@
     "url": "$SITE_KARATE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karate",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "98.38%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.83%",
-    "time": 891,
-    "timeDay": 4665,
-    "timeWeek": 1668,
-    "timeMonth": 1041,
-    "timeYear": 829,
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.82%",
+    "time": 890,
+    "timeDay": 3302,
+    "timeWeek": 1584,
+    "timeMonth": 1029,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2026-04-11": 59,
       "2026-04-17": 86,
@@ -203,7 +203,7 @@
       "2026-06-08": 332,
       "2026-08-13": 108,
       "2026-08-17": 54,
-      "2026-08-20": 1
+      "2026-08-20": 47
     }
   },
   {
