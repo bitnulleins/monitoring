@@ -4,16 +4,16 @@
     "url": "https://www.bit01.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.bit01.de.ico",
     "slug": "bit01",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "96.61%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.83%",
-    "time": 964,
-    "timeDay": 0,
-    "timeWeek": 912,
-    "timeMonth": 1071,
+    "time": 962,
+    "timeDay": 774,
+    "timeWeek": 897,
+    "timeMonth": 1062,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2026-04-11": 59,
@@ -25,7 +25,7 @@
       "2026-07-26": 6,
       "2026-08-26": 54,
       "2026-08-31": 340,
-      "2026-09-03": 2
+      "2026-09-03": 21
     }
   },
   {
@@ -107,16 +107,16 @@
     "url": "$SITE_HANDWERKER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "handwerker",
-    "status": "down",
+    "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "78.38%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "89.40%",
-    "uptimeYear": "98.97%",
+    "uptimeDay": "77.03%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "89.35%",
+    "uptimeYear": "98.96%",
     "time": 1048,
-    "timeDay": 4520,
-    "timeWeek": 1603,
-    "timeMonth": 1060,
+    "timeDay": 3293,
+    "timeWeek": 1527,
+    "timeMonth": 1054,
     "timeYear": 947,
     "dailyMinutesDown": {
       "2026-04-11": 59,
@@ -133,7 +133,7 @@
       "2026-08-07": 1419,
       "2026-08-23": 40,
       "2026-09-02": 310,
-      "2026-09-03": 1
+      "2026-09-03": 20
     }
   },
   {
