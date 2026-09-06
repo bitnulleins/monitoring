@@ -193,10 +193,10 @@
     "url": "$SITE_KARATE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "karate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.82%",
     "time": 886,
@@ -213,7 +213,8 @@
       "2026-06-08": 332,
       "2026-08-13": 108,
       "2026-08-17": 54,
-      "2026-08-20": 47
+      "2026-08-20": 47,
+      "2026-09-06": 1
     }
   },
   {
@@ -295,11 +296,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 172,
     "timeDay": 237,
     "timeWeek": 213,
