@@ -1,7 +1,7 @@
 url: $SITE_KARATE
-status: degraded
+status: up
 code: 200
-responseTime: 10488
-lastUpdated: 2026-09-09T11:36:45.222Z
+responseTime: 625
+lastUpdated: 2026-09-09T16:47:02.856Z
 startTime: 2025-06-13T16:28:13.683Z
 generator: Upptime <https://github.com/upptime/upptime>
