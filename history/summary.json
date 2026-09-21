@@ -6,7 +6,7 @@
     "slug": "bit01",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "81.90%",
+    "uptimeDay": "95.91%",
     "uptimeWeek": "90.13%",
     "uptimeMonth": "95.99%",
     "uptimeYear": "99.57%",
@@ -115,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "handwerker",
     "status": "down",
-    "uptime": "99.17%",
-    "uptimeDay": "85.78%",
-    "uptimeWeek": "85.35%",
-    "uptimeMonth": "94.72%",
-    "uptimeYear": "98.59%",
+    "uptime": "99.15%",
+    "uptimeDay": "71.77%",
+    "uptimeWeek": "83.35%",
+    "uptimeMonth": "94.26%",
+    "uptimeYear": "98.56%",
     "time": 1078,
     "timeDay": 665,
     "timeWeek": 2153,
@@ -152,7 +152,7 @@
       "2026-09-18": 521,
       "2026-09-19": 148,
       "2026-09-20": 204,
-      "2026-09-21": 1
+      "2026-09-21": 202
     }
   },
   {
