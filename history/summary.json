@@ -115,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "handwerker",
     "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "99.96%",
+    "uptime": "99.10%",
+    "uptimeDay": "84.27%",
     "uptimeWeek": "95.28%",
-    "uptimeMonth": "93.71%",
-    "uptimeYear": "98.50%",
+    "uptimeMonth": "93.20%",
+    "uptimeYear": "98.46%",
     "time": 1073,
     "timeDay": 0,
     "timeWeek": 910,
@@ -154,7 +154,7 @@
       "2026-09-20": 204,
       "2026-09-21": 319,
       "2026-09-26": 161,
-      "2026-09-28": 1
+      "2026-09-28": 227
     }
   },
   {
@@ -199,7 +199,7 @@
     "timeDay": 816,
     "timeWeek": 948,
     "timeMonth": 644,
-    "timeYear": 752,
+    "timeYear": 740,
     "dailyMinutesDown": {
       "2026-04-11": 59,
       "2026-04-17": 86,
