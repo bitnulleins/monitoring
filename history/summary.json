@@ -120,12 +120,12 @@
     "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "89.12%",
-    "uptimeMonth": "93.46%",
+    "uptimeMonth": "93.76%",
     "uptimeYear": "98.01%",
     "time": 1051,
     "timeDay": 844,
     "timeWeek": 1070,
-    "timeMonth": 1059,
+    "timeMonth": 1064,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2026-04-11": 59,
@@ -236,7 +236,7 @@
     "timeDay": 1910,
     "timeWeek": 1477,
     "timeMonth": 949,
-    "timeYear": 830,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2026-04-11": 59,
       "2026-04-17": 86,
@@ -332,11 +332,11 @@
     "url": "$SITE_NAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
-    "status": "up",
+    "status": "down",
     "uptime": "98.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "59.31%",
-    "uptimeMonth": "90.64%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "59.29%",
+    "uptimeMonth": "90.63%",
     "uptimeYear": "98.34%",
     "time": 181,
     "timeDay": 193,
@@ -353,7 +353,8 @@
       "2026-10-16": 1208,
       "2026-10-15": 408,
       "2026-10-18": 1047,
-      "2026-10-17": 1440
+      "2026-10-17": 1440,
+      "2026-10-21": 1
     }
   },
   {
@@ -361,10 +362,10 @@
     "url": "$SITE_BACKUP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup",
-    "status": "up",
+    "status": "down",
     "uptime": "94.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "51.20%",
     "uptimeYear": "94.77%",
     "time": 346,
@@ -398,7 +399,8 @@
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
-      "2026-09-28": 499
+      "2026-09-28": 499,
+      "2026-10-21": 1
     }
   }
 ]
