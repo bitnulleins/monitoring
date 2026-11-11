@@ -15,16 +15,6 @@ sites:
     maxResponseTime: 2000
     type: globalping
     location: germany
-  - name: Keikogi Tool
-    url: https://keikogi.bitnulleins.de
-    maxResponseTime: 2000
-    type: globalping
-    location: germany
-  - name: Bricksfinder
-    url: https://bricksfinder.bitnulleins.de
-    maxResponseTime: 2000
-    type: globalping
-    location: germany
   - name: Handwerker
     url: $SITE_HANDWERKER
     __dangerous__body_down: "Es gab einen kritischen Fehler auf deiner Webseite"
