@@ -67,6 +67,7 @@ sites:
     url: $SITE_BACKUP
     maxResponseTime: 2000
     type: globalping
+    check: tcp-ping
     location: germany
     __dangerous__disable_verify_peer: true
 
